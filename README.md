@@ -17,5 +17,4 @@ License: This project is licensed under the MIT License
 Credits: Special thanks to Kaggle.com for providing the Depression dataset for this model. 
 
 Additional Information: 
-Cai, S., Zhang, N., Zhu, J., Liu, Y., & Zhou, Y. (2023). A Study on the Performance of Generative Pre-trained Transformer (GPT) in Simulating Depressed Individuals on the Standardized Depressive Symptom Scale. arXiv preprint arXiv:2307.08576.
-![image](https://github.com/aramirez209/Depression-prediction-using-Machine-Learning/assets/112509372/b3a95366-0718-4614-8e71-459fd3742c95)
+Cai, S., Zhang, N., Zhu, J., Liu, Y., & Zhou, Y. (2023). A Study on the Performance of Generative Pre-trained Transformer (GPT) in Simulating Depressed Individuals on the Standardized Depressive 
